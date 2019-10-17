@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="samplsuite">
+<parameter name="browser" value="chrome"/>
+	<parameter name="testUrl" value="https://www.rakuten.de"/>
+	<parameter name="username" value="solanki.govinda@gmail.com"/>
+	<parameter name="password" value="Ten@2772"/>
+	<test name="Test1">	
+		<classes>
+			<class name="com.rakuten.ui.testcases.TC001_UI_Test" />
+			<class name="com.rakuten.ui.testcases.TC_002_UI_Login" />
+		</classes>
+	</test>
+</suite>

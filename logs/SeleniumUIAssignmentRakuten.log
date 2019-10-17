@@ -1,0 +1,7 @@
+2019-10-17 10:40:43,238 +0530 [main] INFO  (TestBase.java:39) - Started chromedriver on OS Windows 8.1
+2019-10-17 10:40:49,052 +0530 [main] INFO  (TC001_UI_Test.java:21) - ************  Strated checkTitle test case  ****************
+2019-10-17 10:40:49,255 +0530 [main] INFO  (TC001_UI_Test.java:29) - ************  Started Search Mobile  TC ****************
+2019-10-17 10:40:51,817 +0530 [main] DEBUG (TC001_UI_Test.java:31) - Entering search Text: mobile
+2019-10-17 10:40:56,012 +0530 [main] INFO  (TC001_UI_Test.java:42) - ************  Started select produt checkout  TC ****************
+2019-10-17 10:41:55,597 +0530 [main] INFO  (TestBase.java:39) - Started chromedriver on OS Windows 8.1
+2019-10-17 10:42:26,213 +0530 [main] INFO  (TC_002_UI_Login.java:52) - TC LoginHappyScenario
